@@ -1,0 +1,31 @@
+.card {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+.text {
+  width: 500px;
+}
+.title {
+  margin-bottom: 10px;
+}
+.subtitle {
+  margin-bottom: 10px;
+}
+.imgDiv {
+  min-width: 200px;
+  max-width: 250px;
+}
+.img {
+  width: 100%;
+}
+.score {
+  margin-bottom: 10px;
+}
+.overview {
+  margin-bottom: 10px;
+}
+.movieGenres {
+  display: flex;
+  gap: 10px;
+}
